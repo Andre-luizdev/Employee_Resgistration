@@ -16,16 +16,6 @@ Funcionalidades
 
 Tecnologias utilizadas
 
-- Java 17 (ou superior)
 - Programação Orientada a Objetos (POO)
 - IDE: Eclipse
-
-## 📂 Estrutura do projeto
-
-Employee_Registration/
-├── src/
-│ ├── application/
-│ │ └── Program.java
-│ └── entities/
-│ └── Employee.java
 
